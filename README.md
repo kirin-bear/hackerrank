@@ -1,4 +1,4 @@
 # hackerrank
 Tasks from Hackerrank.com
 
-Просто решение задачек, без всяких code style
+Просто решение задачек, без всяких code style и упаковки кода
